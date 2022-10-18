@@ -10,3 +10,5 @@ An algorithm to follow/trace boundaries in binary images. Examples with the same
 <video width="320" height="240" controls>
   <source src="compl5.mp4" type="video/mp4">
 </video>
+
+![Example boundary trace, high precision](compl5.mp4 "Example boundary trace, high precision")
