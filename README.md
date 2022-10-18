@@ -11,4 +11,4 @@ An algorithm to follow/trace boundaries in binary images. Examples with the same
   <source src="compl5.mp4" type="video/mp4">
 </video>
 
-![Example boundary trace, high precision](compl5.mp4 "Example boundary trace, high precision")
+![Example boundary trace, high precision](compl6.mov?raw=true "Example boundary trace, high precision")
