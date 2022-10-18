@@ -1,7 +1,7 @@
 # BF2D
 An algorithm to follow/trace boundaries in binary images. Creates a sequence of points on each side of the boundary.
 
-Examples with the same shape:
+Examples with the same shape, varying precision:
 
 ![Example boundary trace, low precision](compl6.png?raw=true "Example boundary trace, low precision")
 
